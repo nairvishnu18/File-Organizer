@@ -16,9 +16,9 @@ Here's the snapshots of the application
 ```After Orgainzing the Folder```
 <img src="Images/After-Organizing.PNG" alt="Before" class="inline"/>
 
-```Delete  Confirmationf ```
+```Delete  Confirmation ```
 <img src="Images/Delete.PNG" alt="Before" class="inline"/>
 
-```Finding Duplicates the Folder```
+```Finding Duplicates in the Folder```
 <img src="Images/Duplicates.PNG" alt="Before" class="inline"/>
 
