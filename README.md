@@ -7,10 +7,14 @@ It also provides a feature of removing junk files which you might see in some fo
 
 
 ```markdown
-Firstly, we don't need many packgaes for building this. We only need the following packages.
+The project is made using Python libraries tkinter , os , shutil.
+Here's the snapshots of the application
+'''
+<img src="Images/Before-Organizing.PNG" alt="Before" class="inline"/>
 
-1. Tkinter
-2. os
-3. shutil
-```
+<img src="Images/After-Organizing.PNG" alt="Before" class="inline"/>
+
+<img src="Images/Delete.PNG" alt="Before" class="inline"/>
+
+<img src="Images/Duplicates.PNG" alt="Before" class="inline"/>
 
