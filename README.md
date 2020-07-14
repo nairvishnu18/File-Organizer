@@ -32,7 +32,5 @@ Here's the snapshots of the application
 <img src="Images/Duplicates.PNG" alt="Before" class="inline"/>
 
 
-```Follow```
 <!-- Place this tag where you want the button to render. -->
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/nairvishnu18" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @nairvishnu18 on GitHub">Follow @nairvishnu18githg</a>
+<a class="github-button" href="https://github.com/nairvishnu18" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @nairvishnu18 on GitHub">Follow @nairvishnu18</a>
