@@ -9,12 +9,16 @@ It also provides a feature of removing junk files which you might see in some fo
 ```markdown
 The project is made using Python libraries tkinter , os , shutil.
 Here's the snapshots of the application
-'''
-<img src="Images/Before-Organizing.PNG" alt="Before" class="inline"/>
+```
+```Before Orgainzing the Folder```
+<img src="Images/before-Organizing.PNG" alt="Before" class="inline"/>
 
+```After Orgainzing the Folder```
 <img src="Images/After-Organizing.PNG" alt="Before" class="inline"/>
 
+```Delete  Confirmationf ```
 <img src="Images/Delete.PNG" alt="Before" class="inline"/>
 
+```Finding Duplicates the Folder```
 <img src="Images/Duplicates.PNG" alt="Before" class="inline"/>
 
